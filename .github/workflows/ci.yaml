@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   test:
-    name: Tests ${{ matrix.java }}
+    name: Testss ${{ matrix.java }}
     runs-on: ubuntu-latest
 
     if: false
